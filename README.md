@@ -1,4 +1,5 @@
 ## Telecharger le fichier pour bien voir la structure, bien affichee svp...
+J'ai rajoute deux fichiers textes expliquant les outputs des commandes plan et apply a la racine du dossier terraform. Merci.
 [readme.md](https://github.com/IPSSI2022/terraform_groupe6_ipssi/files/11657095/readme.md)
 # Projet Terraform Groupe 6 - Infrastructure AWS
 
