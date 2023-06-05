@@ -1,3 +1,4 @@
+## Telecharger le fichier pour bien voir la structure, bien affichee svp...
 [readme.md](https://github.com/IPSSI2022/terraform_groupe6_ipssi/files/11657095/readme.md)
 # Projet Terraform Groupe 6 - Infrastructure AWS
 
